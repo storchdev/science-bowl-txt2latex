@@ -2,3 +2,4 @@ in.txt
 out.tex
 .venv/
 shell.nix
+out/
