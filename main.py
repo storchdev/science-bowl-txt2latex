@@ -84,7 +84,7 @@ class Question:
         tokens1 = raw_lines[0].split()
 
         if len(tokens1) == 3:
-            m = re.match(r'(\d)*', tokens1[2])
+            m = re.match(r'(\d)\*', tokens1[2])
             if not m:
                 raise RuntimeError(f'Incorrect difficulty in raw question:\n{raw_question}')
             
@@ -121,9 +121,9 @@ class Question:
         
         q_text = raw_lines[1]
         if not q_text[0].isupper():
-            logging.warning(f"{q_text} does not begin with a capital letter")
+            logging.warning(f"Question does not begin with a capital letter: \"{q_text}\"")
         if q_text[-1] != '?':
-            logging.warning(f"{q_text} does not end with a question mark")
+            logging.warning(f"Question does not end with a question mark: \"{q_text}\"")
 
         if is_mcq:
             if len(raw_lines) != 7:
@@ -188,11 +188,8 @@ class Question:
     def to_latex_mcq(self):
         if Question.g_is_tossup:
             tb = 'TOSS-UP'
-            if not args.no_bonus:
-                Question.g_is_tossup = False
         else:
             tb = 'BONUS'
-            Question.g_is_tossup = True
 
         full_subjects = {
             "bio": "Biology",
@@ -225,17 +222,21 @@ class Question:
         latex = latex.replace('[aletter]', self.a_letter)
         latex = latex.replace('[atext]', self.a_text)
 
-        Question.g_q_number += 1
+        if args.no_bonus:
+            Question.g_is_tossup = True
+            Question.g_q_number += 1
+        else:
+            if not Question.g_is_tossup:
+                Question.g_q_number += 1
+
+            Question.g_is_tossup = not Question.g_is_tossup
 
         return dedent(latex).strip('\n')
 
     def to_latex_saq(self):
         if Question.g_is_tossup:
             tb = 'TOSS-UP'
-            if not args.no_bonus:
-                Question.g_is_tossup = False
         else:
-            Question.g_is_tossup = True
             tb = 'BONUS'
 
         full_subjects = {
@@ -261,7 +262,14 @@ class Question:
 
         latex = latex.replace('[atext]', self.a_text)
 
-        Question.g_q_number += 1
+        if args.no_bonus:
+            Question.g_is_tossup = True
+            Question.g_q_number += 1
+        else:
+            if not Question.g_is_tossup:
+                Question.g_q_number += 1
+
+            Question.g_is_tossup = not Question.g_is_tossup
 
         return dedent(latex).strip('\n')
 
@@ -291,7 +299,7 @@ with open(args.output, 'w') as f:
     print(f"Saved output to {args.output}")
 
 if args.clipboard:
-    if platform.system() == "Mac":
+    if platform.system() == "Darwin":
         os.system(f"cat {args.output} | pbcopy")
     elif platform.system() == "Linux":
         os.system(f"cat {args.output} | xclip -selection clipboard")
