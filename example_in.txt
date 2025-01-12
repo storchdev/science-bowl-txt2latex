@@ -1,0 +1,2372 @@
+Math saq ID=0 2d
+How many degrees are in one-sixth of a right angle?
+15
+
+Math saq ID=1 1d
+Round the number 384,951 to the nearest ten-thousand.
+380,000
+
+Math saq ID=2 2d
+In a right triangle, what is the name for the two sides not opposite the 90° angle?
+legs
+
+Math saq ID=3 5d
+Rounded to the nearest meter, find the length of the shortest leg of a right triangle if its hypotenuse measures 13 meters and its longer leg measures 12 meters.
+5
+
+Math saq ID=4 3d
+Rounded to the nearest ten-thousandth, convert 1 over 9 to a decimal.
+0.1111
+
+Math saq ID=5 2d
+What is the name for any segment with both endpoints on a common circle and opposite each other?
+diameter
+
+Math saq ID=6 7d
+Find the circumference, in centimeters, of a circle whose radius is 3 meters.
+600 $\pi$
+
+Math saq ID=7 4d
+What is the result when one third is subtracted from one half?
+One sixth (accept: one over six)
+
+math Saq ID=8 8d
+What is 11 over 15 minus 19 over 21 in simplest fraction form?
+$-\frac{6}{35}$ (do not accept: $-\frac{54}{315}$)
+
+math Saq ID=9 2d
+What is 70\% of 30 plus 70\% of 40
+49
+
+math Saq ID=10 8d
+What is the area of a circle if its area is numerically four times its circumference?
+64$\pi$
+
+math Saq ID=11 6d
+What is the new point created when the point 5 comma -7 is reflected across the line $y=x$?
+(-7, 5)
+
+math Saq ID=12 3d
+What is the sum of all odd integers from 1 to 20, inclusive?
+100
+
+math Saq ID=13 5d
+How many ways are there to choose three candies from a bowl of five distinct candies?
+10 (do not accept: 60) (note: order of candies does not matter, so a combination is used)
+
+math Saq ID=14 7d
+Give one of the linear factors of the quadratic polynomial $6x^{2}+11x-35$.
+$3x-5$ OR $2x+7$
+
+math Saq ID=15 6d
+At how many distinct points does the quadratic polynomial $3x^2+6x+3$ intersect the $x$-axis?
+1
+
+math Saq ID=16 9d
+Stacy Squirrel runs 2 yards due West, 1 yard due South, and then burrows her nut 1 foot into the ground. How many feet away from Stacy’s original location is the nut buried, in simplest radical form?
+$\sqrt{46}$ feet
+
+math Saq ID=17 3d
+An elite and a middle school sprinter run the 200 meter dash in 20 seconds and 25 seconds, respectively. When the elite sprinter crosses the line, how big is the gap, in meters, between him and the middle school sprinter?
+40 meters
+
+math Saq ID=18 4d
+Convert two-five in base 8 to base 10
+21
+
+math Saq ID=19 3d
+What is three factorial squared?
+36
+
+math Saq ID=20 2d
+What is the degree of the polynomial $x$ cubed plus $x$?
+3
+
+math Saq ID=21 5d
+Given an arithmetic sequence with a second term of 3 and a third term of 5, what is the first term?
+1
+
+math Saq ID=22 6d
+Given a fair coin, what is the probability of flipping heads four times in a row?
+$\frac{1}{16}$ (accept: one in/out of sixteen, 6.25\%, 0.0625)
+
+Math mcq ID=23 3d
+Which of the following are the mean and median, respectively, of the following set of 6 numbers: {7, 9, 11, 15, 17, 19}
+W 13, 11
+X 13, 13
+Y 13, 26
+Z 78, 0
+X 13, 13
+
+Math mcq ID=24 5d
+Consider a line that contains points $ABCD$ in order from left to right. If $AB$ = 12, $BC$ = 2, and $AD$ = 96, find $BD$.
+W 84
+X 82
+Y 98
+Z 110
+w 84
+
+Math mcq ID=25 6d -ns
+Assuming standard position, in what quadrant of the rectangular coordinate system will a 1060° angle lie?
+W 1
+X 3
+Y 4
+Z None, it will fall on the x-axis in between four and one
+Y 4
+
+Math mcq ID=26 7d -ns
+If the radius of a circular right cylinder is decreased by a factor of four, by what factor will its volume decrease?
+W 1
+X 4
+Y 16
+Z $\sqrt{4}$
+Y 16 (accept: 1/16 upon explanation)
+
+Math mcq ID=27 8d -ns
+Which of the following is TRUE for the following two equations: $x + 3y = 8$, and, $7x + 21y = 56$?
+They are perpendicular lines
+The system of equations has zero real solutions
+They are parallel lines
+The system of equations has infinite real solutions
+Z The system of equations has infinite real solutions (Note: parallel lines must be unique and not coincident)
+
+math Mcq ID=28 4d -ns
+What is the maximum attainable sum when rolling four fair six-sided dice?
+W 6
+X 18
+Y 24
+Z 36
+Y 24
+
+math Mcq ID=29 3d -ns
+What is the units digit of five raised to the tenth power?
+W 0
+X 5
+Y 10
+Z 25
+X 5
+
+math Mcq ID=30 4d -ns
+Given that a triangle is isosceles and has two sides of 4 and 8, what must the remaining side be?
+W 4
+X 8
+Y 12
+Z 16
+X 8 
+
+math Mcq ID=31 5d -ns
+If $y$ equals $5x$, find the inverse of this function:
+W $y$ equals $x$ over 5
+X $y$ equals negative $x$ over 5
+Y $x$ equals negative y over 5
+Z $x$ equals $y$ over 5
+W $y$ equals $x$ over 5
+
+math Mcq ID=32 4d -ns
+Which of the following linear equations has the highest slope?
+W $y$ equals $x$
+X $y$ equals $2x$
+Y $y$ over 3 equals $x$
+Z $y$ over 3 equals $2x$
+Z $y$ over 3 equals $2x$
+
+math Mcq ID=33 -ns 2d
+If it takes three workers ten minutes to paint a house, how long will it take six workers to paint two houses?
+W five minutes
+X ten minutes
+Y twenty minutes
+Z not enough information
+X ten (10) minutes
+
+math Mcq ID=34 3d -ns
+Sue went shopping with 24 dollars in her purse. She spent one half of her money at the grocery store, and then one third of her remaining money at the candy shop. How much money does she have left over?
+W 12 dollars
+X 8 dollars
+Y 6 dollars
+Z 4 dollars
+X 8 dollars
+
+Math saq ID=35 6d
+The product of two integers is -96, and their sum is 20. What are the integers?
+24 and -4
+
+math Mcq ID=36 5d -ns
+What is the sum of the first five terms of the geometric sequence with first term 1 and common ratio 2?
+W 31 
+X 32 
+Y 63 
+Z 64 
+W 31
+
+Math saq ID=37 5d
+Given the first two Fibonacci numbers are 0 and 1, what is the sum of the first 6 Fibonacci numbers?
+12
+
+math Mcq -ns ID=38 3d
+If $5x - 2 = 13$, what is the value of $x$?
+W 1
+X 2
+Y 3
+Z 5
+Y 3
+
+math Mcq ID=39 3d
+A bag contains 5 red balls, 3 blue balls, and 2 green balls. If one ball is drawn at random, what is the probability it is blue?
+W $\frac{1}{5}$
+X $\frac{3}{10}$
+Y $\frac{1}{2}$
+Z $\frac{2}{5}$
+X $\frac{3}{10}$
+
+math Mcq ID=40 6d -ns
+A cylinder has a radius of 3 centimeters and a height of 5 centimeters. What is its volume?
+W $15\pi , \text{cm}^3$
+X $45\pi , \text{cm}^3$
+Y $60\pi , \text{cm}^3$
+Z $135\pi , \text{cm}^3$
+Z $135\pi , \text{cm}^3$
+
+math Mcq ID=41 5d
+If a function $f$ of $x$ equals $2x+1$, what is $f$ inverse of $x$?
+W y equals x minus 2
+X y equals x over 2 plus 1
+Y y equals x over 2 minus one half
+Z y equals x minus one half
+Y y equals x over 2 minus one half
+
+math Mcq ID=42 4d
+The graph of $y = -x^2 + 4x - 3$ opens in which direction?
+W Upward
+X Downward
+Y Rightward
+Z Leftward
+X Downward
+
+math Mcq ID=43 6d -ns
+The sum of the interior angles of a polygon is $1080^\circ$. How many sides does the polygon have?
+W 6
+X 8
+Y 10
+Z 12
+Y 10
+
+math Mcq ID=44 2d
+What is the leading coefficient of the polynomial $x^5 - 2x^3 - 4x + 6$?
+W 0
+X 1
+Y -2
+Z 5
+X 1
+
+math Mcq ID=45 3d -ns
+Rounded to the nearest whole number, what is $\pi^2$?
+W 8
+X 10
+Y 12
+Z 14
+X 10
+
+math Mcq ID=46 7d -ns
+Solve for $x$ if the quantity $x-4$ cubed equals 27.
+W 5
+X 6
+Y 7
+Z 8
+Y 7
+
+math Mcq ID=47 5d -ns
+In a room of 12 people, each pair of individuals shakes hands once. How many handshakes take place in total?
+W 66
+X 72
+Y 78
+Z 84
+W 66
+
+math Mcq ID=48 6d -ns
+If $x$ is inversely proportional to $y^2$, and $x = 3$ when $y = 4$, what is the value of $x$ when $y = 6$?
+W $\frac{1}{2}$
+X $\frac{2}{3}$
+Y $\frac{4}{3}$
+Z $\frac{3}{2}$
+Y $\frac{4}{3}$
+
+math Mcq ID=49 5d -ns
+If $x$ and $y$ are directly proportional, and $x = 7$ when $y = 13$, what is $x$ when $y = 39$?
+W 14
+X 21
+Y 28
+Z 35
+X 21
+
+math Mcq ID=50 4d
+Sam fills a box with sand, a right rectangular prism measuring 2 feet by 16 feet by 2 feet. He dumps the sand into a cubic box, exactly filling it. How tall is the cubic box in feet?
+W 4
+X 5
+Y 6
+Z 8
+W 4
+
+math Mcq ID=51 8d
+Solve for $x$ in the equation $\log_3(x + 5) = 4$.
+W 60
+X 70
+Y 75
+Z 76
+Z 76
+
+math Mcq ID=52 3d
+A train travels 120 miles in 2 hours. If it maintains the same speed, how far will it travel in 5 hours?
+W 200 miles
+X 240 miles
+Y 300 miles
+Z 360 miles
+Y 300 miles
+
+math Mcq ID=53 2d
+The perimeter of a rectangular garden is 48 meters, and its length is 16 meters. What is its width?
+W 8 meters
+X 10 meters
+Y 12 meters
+Z 16 meters
+W 8 meters
+
+math Mcq ID=54 3d
+A car rental company charges \$20 per day plus \$0.50 per mile driven. If a customer rents a car for 3 days and drives 100 miles, how much is the total cost?
+W \$50
+X \$70
+Y \$80
+Z \$90
+Z \$90
+
+math Mcq ID=55 2d
+A school cafeteria serves 45 meals each hour. If the cafeteria operates for 6 hours each day, how many meals does it serve in one week?
+W 1,890
+X 2,430
+Y 3,780
+Z 4,050
+Y 3,780
+
+math Mcq ID=56 4d
+A student’s test scores are 85, 90, 78, and 88. What score must they earn on the fifth test to have an average of 85?
+W 82
+X 84
+Y 86
+Z 88
+W 82
+
+math Mcq ID=57 3d
+A group of friends shares 8 pizzas equally. If there are 5 people, how much pizza does each person get?
+W $1 \frac{1}{5}$ pizzas
+X $1 \frac{1}{4}$ pizzas
+Y $1 \frac{3}{5}$ pizzas
+Z $1 \frac{3}{4}$ pizzas
+W $1 \frac{3}{5}$ pizzas
+
+math Mcq ID=58 3d
+A runner completes a lap around a circular track with a radius of 100 meters. How far does the runner travel in one lap?
+W $100\pi$ meters
+X $200\pi$ meters
+Y $300\pi$ meters
+Z $400\pi$ meters
+X $200\pi$ meters
+
+math Mcq ID=59 4d
+A store sells apples for \$1.50 each or 5 for \$6.00. How much money does a customer save by buying 5 apples at the discounted rate instead of individually?
+W \$0.50
+X \$1.00
+Y \$1.50
+Z \$2.00
+X \$1.50
+
+math Saq ID=60 6d
+Simplify the fraction with numerator $3x^2-12$ and denominator $3x$.
+$x - \frac{4}{x}$ (accept: $\frac{x^2-4}{x}$)
+
+math Saq ID=61 8d
+The roots of the quadratic equation $x^2 - 5x + k = 0$ differ by 3. What is the value of $k$?
+$k = 6$
+
+math Mcq ID=62 5d
+Which of the following is the degree of the polynomial $3x^4 - 2x^3 + x^2 - 7$?
+W 2
+X 3
+Y 4
+Z 5
+Y 4
+
+math Saq ID=63 3d
+A car travels 180 miles in 3 hours and 240 miles in 4 hours. What is the car’s average speed for the entire trip?
+60 (miles per hour)
+
+math Saq ID=64 6d
+If a solid cube is painted on all six faces and then cut into 27 smaller cubes of equal size, how many of the smaller cubes will have exactly two painted faces?
+12
+
+math Saq ID=65 7d
+A clock's hands overlap several times in a 12-hour period. How many times do the hour and minute hands overlap in one full day?
+22
+
+math Saq ID=66 7d
+A sphere is inscribed in a cube. The cube's edge length is 10 centimeters. Estimate the ratio of the volume of the sphere to the volume of the cube as $n$ to $m$,  where $n$ and $m$ are single-digit whole numbers.
+1:2 (1 to 2)
+
+math Saq ID=67 5d
+A triangular pyramid (tetrahedron) is sliced parallel to one of its faces. How many total faces does the resulting solid have?
+5
+
+math Saq ID=68 2d
+You are standing at one corner of a cube. How many edges of the cube are visible to you without moving your position?
+3
+
+math Saq ID=69 9d
+If Sandy rolls a fair six-sided die three times, and she must roll three distinct numbers to win the game, what is the probability she loses? Express your answer as a fraction.
+$/frac{4}{9}$
+
+math Mcq ID=70 5d
+A Möbius strip is a surface with:
+W One edge and no faces
+X Two edges and one face
+Y One edge and one face
+Z Two edges and two faces
+Y One edge and one face
+
+math Mcq ID=71 3d -nac
+The number of faces, edges, and vertices of a polyhedron satisfy which of the following relationships?
+W $F + E = V + 2$
+X $F + V = E + 2$
+Y $F + E = V - 2$
+Z $F + V - E = 2$
+Z $F + V - E = 2$
+
+math Mcq ID=72 10d
+A regular tetrahedron is inscribed in a sphere. Which of the following points lies at the center of the sphere?
+W Centroid of the tetrahedron
+X Orthocenter of the tetrahedron
+Y Circumcenter of the tetrahedron
+Z Incenter of the tetrahedron
+Y Circumcenter of the tetrahedron
+
+Bio mcq ID=0 2d 
+What element forms the backbone of most biological molecules?
+W Hydrogen
+X Oxygen
+Y Nitrogen
+Z Carbon
+Z carbon
+
+Bio saq ID=1 3d
+What type of bond forms when electrons are shared between two atoms?
+Covalent bond
+
+Biology SAQ ID=2 4d
+In biological systems, what type of macromolecule functions as a catalyst?
+Enzyme
+
+Biology MCQ ID=3 1d
+Which of the following is the most abundant molecule in living organisms?
+W Water
+X Glucose
+Y ~DNA
+Z Lipids
+w Water
+
+Biology SAQ ID=4 1d 
+What is the term for the building blocks of proteins?
+Amino acids
+
+Biology MCQ ID=5 3d
+Which of the following cellular structures is responsible for producing energy in eukaryotic cells?
+W Nucleus
+X Ribosome
+Y Mitochondria
+Z ~Golgi apparatus
+y Mitochondria
+
+Biology SAQ ID=6 1d
+What organelle in plant cells is responsible for photosynthesis?
+Chloroplast
+
+Biology mcq ID=7 6d
+What is the most abundant protein on Earth and serves a crucial role in the Calvin cycle?
+w Hemoglobin
+x Myosin
+y Rubisco
+z Keratin
+Y rubisco
+
+Biology MCQ ID=8 2d
+Which of the following organelles is only found in eukaryotic cells?
+W Ribosome
+X Nucleus
+Y Cell membrane
+Z Cytoplasm
+X Nucleus
+
+Biology SAQ ID=9 3d
+What organelle is involved in breaking down waste and cellular debris?
+Lysosome
+
+Biology MCQ ID=10 2d
+What is the primary component of the cell membrane that forms a bilayer?
+W Proteins
+X Phospholipids
+Y Carbohydrates
+Z Cholesterol
+x Phospholipids
+
+Biology SAQ ID=11 3d
+What type of transport requires energy to move molecules across the cell membrane?
+Active transport
+
+Biology SAQ ID=12 3d
+What type of cell transport involves the movement of water across a semipermeable membrane?
+Osmosis (do not accept: diffusion)
+
+Biology SAQ ID=13 4d
+What structure in plant cells helps maintain turgor pressure by storing water?
+Central vacuole (accept: vacuole)
+
+Biology MCQ -nac ID=14 3d
+What is the primary molecule used by cells to store and transfer energy?
+W glucose
+X ATP
+Y NADPH
+Z \ce{FADH2}
+X ATP
+
+Biology SAQ ID=15 5d
+What is the term for the process by which glucose is broken down in the absence of oxygen or alcohol is produced?
+Fermentation (Accept: Anaerobic respiration)
+
+Biology MCQ ID=16 1d
+Which of the following is a byproduct of photosynthesis?
+W Carbon dioxide
+X Water
+Y Oxygen
+Z ~ATP
+Y Oxygen
+
+Biology SAQ ID=17 6d
+In which part of the chloroplast does the light-dependent reaction of photosynthesis occur?
+Thylakoid membrane
+
+Biology MCQ ID=18 3d
+What is the process by which a single parent cell divides into two genetically identical daughter cells?
+W Meiosis
+X Binary fission
+Y Mitosis
+Z Cytokinesis
+Y Mitosis
+
+Biology SAQ ID=19 5d
+What phase of mitosis is characterized by chromosomes lining up at the center of the cell?
+Metaphase
+
+Biology MCQ ID=20 6d
+Which of the following processes produces gametes with half the number of chromosomes as the parent cell?
+W Mitosis
+X Meiosis
+Y Binary fission
+Z Cytokinesis
+X Meiosis
+
+Biology MCQ ID=21 7d
+During which phase of mitosis do sister chromatids separate and move to opposite poles of the cell?
+W Prophase
+X Metaphase
+Y Anaphase
+Z Telophase
+Y Anaphase
+
+Biology SAQ ID=22 2d
+Which body system releases hormones into the bloodstream to affect distant cells?
+Endocrine system
+
+Biology MCQ ID=23 2d
+What is the term for the physical traits expressed by an organism?
+W Genotype
+X Allele
+Y Phenotype
+Z Gene
+Y Phenotype
+
+Biology SAQ ID=24 4d
+What is the name of the molecule that carries genetic information from DNA to the ribosome for protein synthesis?
+~mRNA (messenger RNA)
+
+Biology SAQ ID=25 5d
+What is the name of the process where DNA is copied into RNA?
+Transcription
+
+Biology MCQ ID=26 3d
+What is the name for the different forms of a gene, like one for brown eyes and one for blue eyes?
+W Genes
+X Alleles
+Y Proteins
+Z ~DNA
+X Alleles
+
+Biology MCQ ID=27 1d
+Which of the following is NOT a carnivore?
+W Shark
+X Frog
+Y Cow
+Z Eagle
+Y cow
+
+Biology MCQ ID=28 2d
+What is the three-letter "code word" on mRNA that tells the ribosome which amino acid to add?
+W Codon
+X Allele
+Y Chromosome
+Z Gene
+W Codon
+
+Biology SAQ ID=29 2d
+What scientist is known for the theory of natural selection?
+~Charles Darwin (Accept: Darwin)
+
+Biology SAQ ID=30 1d
+What term describes a trait that helps an organism survive in its environment?
+Adaptation
+
+Biology MCQ ID=31 2d
+What is the term for the remains or traces of ancient organisms found in rocks?
+W Fossils
+X Artifacts
+Y Sediments
+Z Skeletons
+W Fossils
+
+Biology mcq ID=32 4d
+Which of the following has the most calories?
+W 8 grams of table sugar
+X 8 grams of table salt
+Y 8 grams of beef
+Z 8 grams of olive oil
+Z 8 grams of olive oil
+
+Biology SAQ ID=33 6d
+What term describes structures in different species that have a similar shape but different functions, such as a whale’s flipper and a human hand?
+Homologous structures
+
+Biology MCQ ID=34 4d
+What is the broadest level of classification of living things?
+W Kingdom
+X Species
+Y Domain
+Z Family
+Y Domain
+
+Biology mcq ID=35 5d
+Which of the following is NOT a domain of life?
+W Bacteria
+X Mammalia
+Y Archaea
+Z Eukarya
+x mammalia
+
+Biology SAQ ID=36 2d
+Which kingdom includes organisms that can make their own food through photosynthesis, like trees and flowers?
+Plantae (Accept: Plants)
+
+Biology SAQ ID=37 3d
+What is the term for an organism that feeds on dead and decaying matter?
+Decomposer
+
+Biology MCQ ID=38 1d
+Which of the following levels of organization is the smallest and most basic?
+W Cell
+X Organ
+Y Tissue
+Z Organism
+W Cell
+
+Biology MCQ ID=39 2d
+Which of the following is an example of an organ system?
+W Stomach
+X Nervous system
+Y Muscle tissue
+Z Brain
+X Nervous system
+
+Biology MCQ -ns ID=40 1d
+What part of a plant is responsible for absorbing water and nutrients from the soil?
+W Stem
+X Leaf
+Y Root
+Z Flower
+Y Root
+
+Biology MCQ -ns ID=41 1d
+Which part of a plant is responsible for photosynthesis?
+W Stem
+X Root
+Y Leaf
+Z Seed
+Y Leaf
+
+Biology SAQ ID=42 2d
+What is the name of the system in animals that transports oxygen, nutrients, and waste throughout the body?
+Circulatory system
+
+Biology SAQ ID=43 1d
+What is the name of the main organ that pumps blood through the circulatory system?
+Heart
+
+Biology SAQ ID=44 1d
+What is the name of the organ where oxygen is exchanged for carbon dioxide in animals?
+Lungs
+
+Biology SAQ ID=45 1d
+What organ in animals filters waste from the blood to produce urine?
+Kidney
+
+Bio MCQ ID=46 3d
+What is the term for all the living and non-living things in a particular area?
+w Habitat
+x Community
+y Ecosystem
+z Population
+y Ecosystem
+
+Biology SAQ ID=47 4d
+What is the term for organisms that make their own food using sunlight or chemicals and are the first level of the ecological hirearchy?
+Producers (Accept: Autotrophs, Primary Producer)
+
+Biology SAQ ID=48 3d
+What is the name of the process in which animals release carbon dioxide and take in oxygen?
+ANSWER: Respiration (Accept: Cellular respiration)
+
+Biology MCQ ID=49 2d 
+Which of the following is an example of a decomposer?
+w Eagle
+x Mushroom
+y Grass
+z Shark
+x Mushroom
+
+Biology MCQ ID=50 4d
+What type of relationship benefits both organisms, such as bees pollinating flowers?
+w Parasitism
+x Commensalism
+y Competition
+z Mutualism
+z Mutualism
+
+Biology MCQ ID=51 2d
+Which of the following is part of the water cycle?
+w Photosynthesis
+x Precipitation
+y Combustion
+z Decomposition
+x Precipitation
+
+Biology MCQ ID=52 2d
+Which of the following is an example of a eukaryotic organism?
+W Bacteria
+X Fungus
+Y Virus
+Z Cyanobacteria
+X Fungus
+
+Biology SAQ ID=53 2d
+What is the term for a single-celled organism without a nucleus?
+Prokaryote
+
+Biology saq ID=54 5d
+A student observes a plant leaf under a microscope and notices tiny openings. These openings are surrounded by guard cells. What are these openings called, and what is their function?
+stomata
+
+Biology MCQ ID=55 2d
+Which of the following organelles contains the genetic material of a cell?
+W Ribosome
+X Mitochondria
+Y Nucleus
+Z Lysosome
+Y Nucleus
+
+Bio saq ID=56 4d
+An animal is found in the desert and can survive long periods without water by storing fat in its body. The fat can be broken down to release water and energy. What type of macromolecule is the stored fat?
+Lipid
+
+Biology MCQ ID=57 4d
+Which of the following is an example of a behavioral adaptation?
+W Sharp claws on a predator
+X Bright colors on a poisonous frog
+Y Birds migrating south for the winter
+Z Long necks on giraffes
+Y Birds migrating south for the winter
+
+Biology saq ID=58 3d
+A biology class is studying ecosystems. They observe a forest where deer eat plants, and wolves eat the deer. The wolves are later removed from the area, leading to an increase in the deer population. What is the term for the role the wolves played in the ecosystem?
+Predator
+
+Biology SAQ ID=59 5d
+What is the name for a group of ecosystems with similar climates and dominant organisms?
+Biome
+
+Biology MCQ ID=60 1d
+What process uses sunlight, water, and carbon dioxide to produce glucose and oxygen?
+W Cellular respiration
+X Photosynthesis
+Y Fermentation
+Z Chemosynthesis
+X Photosynthesis
+
+Biology saq ID=61 6d
+A scientist is studying two populations of frogs living near a pond. One population is green, while the other is brown. After a predator is introduced to the area, the green frogs become less common because they are more visible. What evolutionary process is occurring?
+Natural selection
+
+Biology MCQ ID=62 2d
+Which of the following is a characteristic of all living things?
+W Reproduction
+X Photosynthesis
+Y Having lungs
+Z Walking
+W Reproduction
+
+Biology SAQ ID=63 3d
+What type of symbiotic relationship benefits one organism while harming another?
+Parasitism
+
+Biology MCQ ID=64 4d
+Which of the following macromolecules is primarily responsible for storing genetic information?
+W Lipids
+X Proteins
+Y Carbohydrates
+Z Nucleic acids
+Z Nucleic acids
+
+Biology MCQ ID=65 2d
+Which of the following describes the role of decomposers in an ecosystem?
+W Producing energy
+X Breaking down dead material
+Y Consuming living plants
+Z Storing water
+X Breaking down dead material
+
+Biology SAQ ID=66 7d
+A student examines a drop of pond water under a microscope and observes a single-celled organism moving with the help of a whip-like structure. What is the name of this structure?
+Flagellum
+
+Biology SAQ ID=67 6d
+What is the term for the process by which plants absorb water through their roots and release it through their leaves?
+Transpiration
+
+Biology SAQ ID=68 7d
+What is the term for the fluid-filled space inside a chloroplast where the Calvin cycle takes place?
+Stroma
+
+Biology SAQ ID=69 5d
+What is the term for the layer of cells that protects a leaf and prevents water loss?
+Cuticle
+
+Biology MCQ ID=70 3d
+Which kingdom includes mushrooms, yeasts, and molds?
+W Plantae
+X Fungi
+Y Protista
+Z Animalia
+X Fungi
+
+Biology MCQ ID=71 8d
+Which of the following organisms is capable of nitrogen fixation?
+W Earthworms
+X Cyanobacteria
+Y Deer
+Z Algae
+X Cyanobacteria
+
+Biology MCQ ID=72 3d
+What is the main function of white blood cells?
+W Transporting oxygen
+X Fighting infections
+Y Producing energy
+Z Clotting blood
+X Fighting infections
+
+Biology MCQ ID=73 4d
+Which of the following types of symmetry is found in starfish?
+W Radial
+X Bilateral
+Y Asymmetry
+Z Circular
+W Radial
+
+chemistry mcq -ns ID=0 2d
+Which phase of matter has a definite volume but no definite shape?
+W Solid
+x Liquid
+y Gas
+z Plasma
+x Liquid
+
+chemistry mcq ID=1 3d
+What process describes the change from a liquid to a gas at the surface of a liquid?
+W Melting
+x Boiling
+y Evaporation
+z Condensation
+y Evaporation
+
+chemistry mcq ID=2 4d
+What process describes the change from a solid to a gas at the surface of a liquid?
+W sublimation
+x Boiling
+y Evaporation
+z Condensation
+y sublimation
+
+chemistry mcq ID=3 1d -nac
+At what temperature in Celsius does water freeze under normal atmospheric pressure?
+W 0°C
+x 32°C
+y 100°C
+z –273°C
+W 0°C
+
+chemistry mcq ID=4 2d 
+Which of the following describes the movement of particles in a solid?
+W They move freely in all directions
+x They vibrate in fixed positions
+y They flow past one another
+z They are stationary
+x They vibrate in fixed positions
+
+chemistry mcq ID=5 2d 
+What happens to the motion of molecules as the temperature of a substance increases?
+W They slow down
+x They move faster
+y They stop moving
+z Their motion becomes more orderly
+x They move faster
+
+chemistry saq 5d
+What is the reverse process of sublimation, where a gas changes directly into a solid?
+Deposition
+
+chemistry mcq ID=7 3d
+What is the smallest unit of matter that retains the properties of an element?
+W Molecule
+x Atom
+y Proton
+z Ion
+x Atom
+
+chemistry saq 2d
+What subatomic particles are found in the nucleus of an atom? ID=8 4d
+Protons and neutrons
+
+chemistry mcq ID=9 2d
+What is a group of two or more atoms bonded together called?
+W Ion
+x Element
+y Molecule
+z Proton
+y Molecule
+
+chemistry mcq ID=10 1d
+What is the charge of a proton?
+W Positive
+x Negative
+y Neutral
+z Zero
+W Positive
+
+chemistry mcq ID=11 3d
+What do you call a charged atom or group of atoms?
+W Molecule
+x Ion
+y Electron
+z Nucleus
+x Ion
+
+chemistry saq ID=12 1d
+How many electrons does a neutral hydrogen atom have?
+1
+
+chemistry mcq ID=13 2d
+What do you call a molecule made of two hydrogen atoms and one oxygen atom?
+W Oxygen gas
+x Water
+y Hydrogen peroxide
+z Methane
+x Water
+
+chemistry mcq -ns ID=14 6d
+In the reaction 2\ce{H2}+\ce{O2} yields 2\ce{H2O2H2​}+\ce{O2} yields 2\ce{H2​O}, how many molecules of water are produced from 2 molecules of oxygen gas?
+W 1
+x 2
+y 4
+z 6
+y 4
+
+chemistry mcq -ns ID=15 6d
+In the reaction \ce{CH4}+2\ce{O2} yields \ce{CO2}+2\ce{H2O}, how many moles of \ce{O2​} are needed to completely react with 1 mole of \ce{CH4​}?
+W 1
+x 2
+y 3
+z 4
+x 2
+
+chemistry mcq -ns ID=16 7d
+What is the term for the reactant that runs out first in a chemical reaction?
+W Excess reactant
+x Limiting reactant
+y Primary reactant
+z Product
+x Limiting reactant
+
+chemistry mcq ID=17 7d
+What is the term for the reactant that is left over in a chemical reaction?
+W Excess reactant
+x Limiting reactant
+y Primary reactant
+z Product -ns
+W Excess reactant
+
+chemistry saq ID=18 8d
+In the reaction \ce{N2}+3\ce{H2} yields 2\ce{NH3N2​}+3\ce{H2​} yields 2\ce{NH3}​, if 3 moles of \ce{N2N2}​ react with 6 moles of \ce{H2H2​}, which is the limiting reactant?
+\ce{H2H2​}
+
+chemistry mcq ID=19 5d
+What type of reaction absorbs heat from its surroundings?
+W Exothermic
+x Endothermic
+y Combustion
+z Neutralization
+x Endothermic
+
+chemistry mcq ID=20 1d
+What is the unit most commonly used to measure energy in chemistry?
+W ~Joules
+x Meters
+y Kilograms
+z Liters
+W Joules
+
+chemistry saq ID=21 5d
+What is the term for the total energy stored in a substance?
+Enthalpy
+
+chemistry mcq ID=22 6d
+What is the term for the amount of heat required to raise the temperature of 1 gram of a substance by 1°C?
+W Enthalpy
+x Heat capacity
+y Specific heat
+z Latent heat
+y Specific heat
+
+chemistry saq ID=23 4d
+During melting or boiling, does the temperature of a substance change?
+No
+
+chemistry mcq ID=24 5d -nac
+What is the definition of a calorie?
+W the energy required to raise the temperature of 1 kilogram of water by 1°C
+x the energy required to raise the temperature of 1 gram of water by 1°C
+y the energy required to boil 1 liter of water
+z the energy released when 1 gram of fat is burned
+x the energy required to raise the temperature of 1 gram of water by 1°C
+
+chemistry mcq ID=25 3d
+Which of the following substances is an acid?
+W Lemon juice
+x Baking soda
+y Ammonia
+z Soap
+W Lemon juice
+
+chemistry mcq -ns ID=26 1d
+What is the pH of a neutral solution?
+W 0
+x 7
+y 14
+z 10
+x 7
+
+chemistry saq ID=27 3d
+What ion is responsible for the acidic properties of a solution?
+Hydrogen ion (accept: H plus, proton)
+
+chemistry saq ID=28 3d
+Select all that are a common property of acids: 1) slippery feel, 2) sour taste, 3) turns blue litmus paper red
+2, 3
+
+chemistry saq ID=29 5d
+What is the name of the reaction that occurs when an acid and base combine to form water and a salt?
+Neutralization
+
+chemistry mcq ID=30 5d
+What is the term for a state where the forward and reverse reactions occur at the same rate?
+W Saturation
+x Equilibrium
+y Neutralization
+z Precipitation
+x Equilibrium
+
+chemistry mcq ID=31 4d
+Which of the following is an example of a colloid?
+W Salt water
+x Milk
+y Pure water
+z Copper wire
+x Milk
+
+chemistry mcq ID=32 5d
+What happens to a solution when the solute concentration exceeds its solubility?
+W It forms a colloid
+x It forms a saturated solution
+y It becomes supersaturated
+z It freezes
+y It becomes supersaturated
+
+chemistry mcq ID=33 7d
+In Le Chatelier's Principle, what happens if more reactants are added to a system at equilibrium?
+W The equilibrium shifts to form more products
+x The equilibrium shifts to form more reactants
+y The equilibrium does not change
+z The system stops reacting
+W The equilibrium shifts to form more products
+
+chemistry mcq ID=34 6d
+What is the Tyndall effect, which is often observed in colloids?
+W The absorption of light
+x The scattering of light by particles
+y The formation of a solution
+z The separation of phases
+x The scattering of light by particles
+
+chemistry mcq ID=35 4d
+Convert 5.40 grams to kilograms, keeping significant figures in mind.
+W 0.0054
+x 0.054
+y 0.00540
+z 0.540
+y 0.00540
+
+chemistry mcq ID=36 4d
+Convert 0.0250 seconds to milliseconds, keeping significant figures in mind.
+W 25
+x 0.025
+y 25.0
+z 0.250
+y 25.0
+
+chemistry mcq ID=37 5d
+What is measured in calorimetry experiments?
+W Mass of the substance
+x Heat transfer
+y Volume of liquid
+z Pressure
+x Heat transfer
+
+chemistry mcq -ns ID=38 8d
+If 4.00 grams of a substance is burned in a bomb calorimeter and releases 8,400 Joules of heat, what is the heat released per gram?
+W 2,100
+x 4,200
+y 8,400
+z 1,200
+x 4,200
+
+chemistry mcq ID=39 5d
+In calorimetry, why is the system typically insulated?
+W To increase pressure
+x To prevent heat loss to the surroundings
+y To ensure constant temperature
+z To prevent the reaction from occurring
+x To prevent heat loss to the surroundings
+
+chemistry mcq ID=40 3d
+What is the atomic number of an element equal to?
+W The number of neutrons in the nucleus
+x The number of protons in the nucleus
+y The total mass of the atom
+z The number of electrons and neutrons combined
+x The number of protons in the nucleus
+
+chemistry mcq ID=41 2d
+Which of the following is a chemical change?
+W Boiling water
+x Dissolving salt in water
+y Burning paper
+z Melting ice
+y Burning paper
+
+chemistry mcq ID=42 2d
+Which subatomic particle has a negative charge?
+W Proton
+x Neutron
+y Electron
+z Nucleus
+y Electron
+
+chemistry saq ID=43 4d
+What is the relative charge and mass of a neutron?
+0 and 1 (amu) (for mass, accept: 1.008)
+
+chemistry mcq ID=44 5d
+Which of the following best describes an isotope?
+W Atoms of the same element with different numbers of protons
+x Atoms of the same element with different numbers of neutrons
+y Atoms of different elements with the same number of protons
+z Atoms with the same atomic mass but different chemical properties
+x Atoms of the same element with different numbers of neutrons
+
+chemistry saq ID=45 3d
+What is the difference between an element and a compound?
+An element consists of only one type of atom, while a compound is made up of two or more different elements chemically bonded together.
+
+chemistry saq ID=46 3d
+In the periodic table, what do elements in the same group (column) have in common?
+number of valence electrons
+
+chemistry mcq ID=47 6d
+Which element has the highest electronegativity?
+W Oxygen
+x Fluorine
+y Chlorine
+z Nitrogen
+x Fluorine
+
+chemistry mcq -nac ID=48 5d
+Which gas law states that at constant pressure, the volume of a gas is directly proportional to its temperature?
+W Boyle's Law
+x Charles's Law
+y Avogadro's Law
+z Dalton's Law
+x Charles's Law
+
+chemistry saq ID=49 2d
+What is the chemical formula for methane?
+\ce{CH4}
+
+chemistry mcq ID=50 3d
+What type of bond forms between a metal and a nonmetal?
+W Ionic
+x Covalent
+y Metallic
+z Hydrogen
+W Ionic
+
+chemistry saq ID=51 6d
+What is the term for the energy required to remove an electron from an atom?
+Ionization energy
+
+chemistry mcq ID=52 3d
+What is the most abundant element in the universe?
+W Helium
+x Oxygen
+y Carbon
+z Hydrogen
+z Hydrogen
+
+chemistry mcq ID=53 4d
+Which of the following is an alloy?
+W Bronze
+x iron
+y Hydrogen
+z copper
+W Bronze
+
+chemistry saq ID=54 3d
+What is the term for a mixture where particles are evenly distributed and do not settle over time?
+Solution
+
+chemistry saq ID=55 4d
+What is the common name for HCL gas when dissolved in water?
+Hydrochloric acid
+
+chemistry mcq ID=56 6d
+Which of the following is a strong acid?
+W \ce{H2O}
+x \ce{H2SO4}
+y \ce{CH4}
+z \ce{NH3}
+x \ce{H2SO4}
+
+chemistry mcq ID=57 4d
+What type of chemical reaction is 2\ce{H2}+\ce{O2} yields 2\ce{H2O}?
+W Synthesis
+x Decomposition
+y Single replacement
+z Combustion
+W Synthesis
+
+chemistry mcq -ns ID=58 5d
+What is the molar mass of carbon dioxide?
+W 12
+x 28
+y 44
+z 56
+y 44
+
+chemistry mcq ID=59 3d
+What is the term for a mixture where one substance is evenly distributed in another but not dissolved?
+W Colloid
+x Solution
+y Suspension
+z Compound
+W Colloid
+
+chemistry saq ID=60 3d
+What is the chemical formula for glucose?
+\ce{C6H12O6}
+
+chemistry mcq ID=61 2d
+Which of the following describes the motion of particles in a gas?
+W Vibrate in fixed positions
+x Move freely in all directions
+y Flow past one another
+z Remain stationary
+x Move freely in all directions
+
+chemistry saq ID=62 4d
+What is the term for the temperature at which a liquid turns into a vapor?
+Boiling point
+
+chemistry mcq ID=63 3d
+Which of the following metals are most well-known for being extremely conductive and used in industrial applications?
+W Copper
+x Silver
+y Gold
+z Aluminum
+W Copper
+
+chemistry saq 6d
+What is the term for the spontaneous mixing of particles of two substances due to random motion?
+Diffusion
+
+chemistry mcq ID=64 5d -nac
+Which gas law states that the volume of a gas is inversely proportional to its pressure at constant temperature?
+W Charles’s Law
+x Avogadro’s Law
+y Dalton’s Law
+z Boyle’s Law
+z Boyle’s Law
+
+chemistry mcq ID=65 3d
+Which of the following elements is a halogen?
+W Oxygen
+x Fluorine
+y Nitrogen
+z Helium
+x Fluorine
+
+chemistry saq ID=66 2d
+What is the name of the vertical columns in the periodic table?
+Groups
+
+chemistry mcq ID=67 2d
+Which of the following is an example of a solution?
+W Fog
+x Saltwater
+y Ice
+z Oil and water
+x Saltwater
+
+chemistry saq ID=68 4d
+What is the main greenhouse gas released from burning fossil fuels?
+Carbon dioxide (\ce{CO2})
+
+chemistry mcq ID=69 3d
+What is the term for the amount of matter in proportion to the space it takes up?
+W Mass
+x Volume
+y Density
+z Weight
+y Density
+
+chemistry saq ID=70 5d
+What is the name of the negatively charged particle emitted during beta decay?
+Electron
+
+chemistry mcq ID=71 4d
+What type of chemical bond involves the complete transfer of electrons between atoms?
+W Covalent bond
+x Metallic bond
+y Ionic bond
+z Hydrogen bond
+y Ionic bond
+
+chemistry mcq ID=72 3d
+Which of the following gases is responsible for the fizz in carbonated drinks?
+W Oxygen
+x Hydrogen
+y Nitrogen
+z Carbon dioxide
+z Carbon dioxide
+
+Ess mcq ID=0 2d
+What will be the final stage of the Sun?
+w Black Hole
+x White Dwarf
+y Neutron Star
+z Red Giant
+x white dwarf
+
+Ess saq ID=1 6d 
+What type of rock would you expect to find in crust that is involved in mountain building, where confining pressures are extremely high?
+Metamorphic
+
+Ess saq -nac ID=2 3d
+Which constellation contains the red supergiant Betelgeuse (BEETLE JUICE) and is also known as The Hunter?
+Orion
+
+Ess mcq ID=3 4d
+Which of the following clouds indicates a severe thunderstorm?
+W Cirrus
+X Stratus
+Y Cumulonimbus
+Z Altocumulus
+Y cumulonimbus
+
+Ess mcq -ns ID=4 5d -nac
+Which of the following objects is NOT visible with the naked eye?
+W jupiter
+X saturn
+Y uranus
+Z neptune
+Z neptune
+
+Ess saq ID=5 1d
+Rank the following minerals from lowest to highest on the Mohs [MOES] hardness scale. 1) diamond, 2) talc, 3) quartz
+2, 3, 1 (talc, quartz, diamond)
+
+Ess saq ID=6 6d
+What is the process in which heavier bits of rock settle to the bottom of a body of water which may fill undersea canyons?
+Sedimentation
+
+Ess mcq ID=7 4d
+Which type of chemical weathering causes the red color of rust?
+w carbonation
+x oxidation
+y hydrolysis
+z dissolution
+x oxidation
+
+ess saq ID=8 2d
+As a contrast to the V shape formed when a stream erodes a valley, what letter of the alphabet best describes the shape formed by a valley glacier?
+~U
+
+Ess mcq ID=9 5d
+What type of fault is associated with tensional stress, where the hanging wall moves downward relative to the footwall?
+w reverse fault
+x strike-slip fault
+y normal fault
+z thrust fault
+y normal fault
+
+ess mcq ID=10 7d
+Name the layer of Earth’s interior that behaves like a plastic solid and allows tectonic plates to move.
+W hydrosphere
+X lithosphere
+Y ~Moho
+Z asthenosphere
+Z asthenosphere
+
+ess mcq ID=11 6d
+Which of the following oceanographic phenomena is primarily driven by wind patterns and the Coriolis effect, resulting in the vertical movement of cold, nutrient-rich water to the ocean's surface?
+w thermocline mixing
+x tidal surges
+y upwelling
+z gyre circulation
+y upwelling
+
+ess saq ID=12 3d
+What type of plate boundary is characterized by plates sliding past each other, such as at the San Andreas Fault?
+transform boundary
+
+ess mcq ID=13 8d
+Which of the following features describes a neutron star but not a black hole?
+w ~its mass is below the Chandrasekhar limit
+x it can emit pulses of radiation as a pulsar
+y it is the endpoint of stellar evolution for all stars
+z it has an event horizon
+x it can emit pulses of radiation as a pulsar
+
+ess mcq -ns ID=14 4d
+During what month is the Earth farthest from the Sun?
+~January
+~March
+~July
+~September
+Y July
+
+ess mcq ID=15 8d
+An absorption spectrum is characterized by which of the following?
+w bright, continuous bands of light across all wavelengths
+x dark lines or bands superimposed on a continuous spectrum
+y evenly spaced emission lines of various colors
+z a single wavelength of light emitted at high intensity
+x dark lines or bands superimposed on a continuous spectrum
+
+ess mcq ID=16 5d
+What is the term for the apparent shift in the position of a star due to the motion of Earth around the Sun?
+w retrograde motion
+x parallax
+y proper motion
+z redshift
+x parallax
+
+ess saq ID=17 7d
+What is the name of the region around a star where conditions are just right for liquid water to exist on a planet’s surface?
+habitable zone
+
+ess mcq ID=18 3d
+Which of the following celestial objects is primarily composed of ice, dust, and gas, often developing a tail as it approaches the Sun?
+w asteroid
+x comet
+y meteor
+z dwarf planet
+x comet
+
+ess mcq ID=19 2d
+What is the primary cause of seasons on Earth?
+w ~changes in Earth’s distance from the Sun
+x ~the tilt of Earth’s rotational axis
+y ~variations in solar output
+z ~the shape of Earth’s orbit
+x ~the tilt of Earth’s rotational axis
+
+ess mcq -ns ID=20 5d
+When does the summer solstice occur in Perth, Australia?
+w ~March 21
+x ~June 21
+y ~September 23
+z ~December 21
+z ~December 21
+
+ess saq ID=21 6d
+Which type of seismic wave can travel through both solids and liquids?
+P-waves
+
+ess saq ID=22 3d
+What mineral, with a chemical formula of \ce{SiO2}, is the most abundant mineral in the Earth’s crust?
+Quartz
+
+ess mcq ID=23 7d
+What is the primary force driving the movement of tectonic plates?
+Drift 
+Conduction
+Convection
+Radiation
+Y convection
+
+ess mcq ID=24 2d
+Which of the following rock types is formed from cooling and solidification of magma?
+w metamorphic
+x fossiliferous
+y igneous
+z sedimentary
+y igneous
+
+ess mcq ID=25 2d
+Which of the following best describes the global thermohaline circulation?
+w atmospheric air currents moving heat
+x ocean currents driven by temperature and salinity differences
+y volcanic activity releasing heat into the oceans
+z tectonic plate movements stirring ocean water
+x ocean currents driven by temperature and salinity differences
+
+Ess saq ID=26 1d
+Order the following planets from least to greatest number of moons: 1) Earth, 2) Mars, 3) Jupiter, 4) Saturn.
+1, 2, 3, 4
+
+ess mcq ID=27 4d
+What is the primary reason for the phases of the Moon?
+w ~Earth's shadow falling on the Moon
+x ~The Moon's orbit around Earth
+y ~The Moon's rotation on its axis
+z ~Changes in Earth's tilt
+x ~The Moon's orbit around Earth
+
+ess saq ID=28 6d
+What element is most commonly fused in the cores of stars during the main sequence phase of their lives?
+Hydrogen
+
+ess mcq -nac ID=29 9d
+What term is used to describe the radius at which an object’s escape velocity equals the speed of light, forming the boundary of a black hole?
+w Planck radius
+x Schwarzschild radius
+y Event horizon radius
+z Einstein radius
+x Schwarzschild radius
+
+ess mcq -ns ID=30 5d
+Which planet has the fastest rotation, completing one day in less than 10 hours?
+w ~Earth
+x ~Jupiter
+y ~Saturn
+z ~Neptune
+x ~Jupiter
+
+ess saq 8d
+What is the term for the bowl-shaped depression formed by the collapse of a volcanic structure?
+Caldera
+
+ess mcq ID=31 2d
+Which of the following gases makes up the second largest percentage of Earth's atmosphere?
+w oxygen
+x nitrogen
+y carbon dioxide
+z argon
+W oxygen
+
+ess mcq ID=32 6d
+Which of the following causes the formation of sinkholes?
+w volcanic eruptions
+x glacial melting
+y dissolution of limestone by acidic water
+z tectonic uplift
+y dissolution of limestone by acidic water
+
+ess mcq ID=33 5d
+Which type of mass wasting involves the rapid downslope movement of rock and debris under the influence of gravity?
+w creep
+x slump
+y rockfall
+z debris flow
+z debris flow
+
+ess mcq ID=34 7d
+Which of the following is NOT associated with a divergent plate boundary?
+w mid-ocean ridges
+x rift valleys
+y volcanic activity
+z subduction zones
+z subduction zones
+
+Ess mcq -nac ID=35 9d
+Which of the following is the primary cause of Earth's magnetic field?
+the movement of molten iron in the outer core
+the movement of molten iron in the inner core
+gravitational interactions with the Moon
+gravitational interactions with the Sun
+W the movement of molten iron in the outer core
+
+ess mcq -nac ID=37 3d
+Which era is often referred to as the "Age of Reptiles"?
+w Cenozoic
+x Paleozoic
+y Mesozoic
+z Precambrian
+y Mesozoic
+
+ess mcq ID=38 4d
+What principle states that in undisturbed layers of rock, the oldest layer is on the bottom?
+w Principle of Superposition
+x Principle of Original Horizontality
+y Principle of Cross-Cutting Relationships
+z Principle of Faunal Succession
+w Principle of Superposition
+
+ess mcq ID=39 8d
+What radioactive isotope is commonly used to date the age of ancient rocks?
+Carbon-14
+Potassium-40
+Thorium-232
+Uranium-238
+z Uranium-238
+
+ess saq ID=40 6d
+Rank the following geologic time divisions from shortest to longest: 1) period, 2) epoch, 3) era, 4) eon
+2, 1, 3, 4
+
+ess mcq -nac ID=41 9d
+Which of the following scientists played a key role in developing the theory of plate tectonics by proposing sea-floor spreading?
+w Harry Hess
+x James Hutton
+y Alfred Wegener
+z Charles Lyell
+w Harry Hess
+
+ess mcq -nac ID=42 5d
+Who is considered the "father of modern geology"?
+w Charles Darwin
+x Alfred Wegener
+y James Hutton
+z Nicolaus Steno
+y James Hutton
+
+ess saq ID=43 7d
+What technology, developed during World War II, helped scientists map the ocean floor and discover mid-ocean ridges?
+Sonar
+
+ess mcq ID=44 3d
+Which of the following is a trace fossil?
+w a complete dinosaur skeleton
+x a footprint preserved in rock
+y a petrified tree trunk
+z a frozen mammoth
+x a footprint preserved in rock
+
+ess mcq ID=45 5d
+What type of galaxy is characterized by a smooth, nearly featureless appearance?
+w elliptical
+x spiral
+y irregular
+z barred spiral
+w elliptical
+
+ess mcq -nac ID=46 6d
+Which ancient civilization first recorded detailed observations of supernovae?
+w Mayans
+x Chinese
+y Babylonians
+z Egyptians
+x Chinese
+
+ess mcq -nac ID=47 5d
+Which of the following would experience the strongest time dilation due to intense gravity?
+w a satellite orbiting Earth
+x a person near the event horizon of a black hole
+y a spaceship traveling near the speed of light
+z an astronaut on Mars
+x a person near the event horizon of a black hole
+
+ess mcq -nac ID=48 8d
+Which of the following moons in the solar system has a thick atmosphere and surface lakes of liquid methane?
+w Europa
+x Io
+y Titan
+z Ganymede
+y Titan
+
+ess mcq ID=49 7d
+What shape is theorized for the Oort Cloud, which surrounds our solar system?
+w disk
+x spherical
+y toroidal
+z spiral
+x spherical
+
+ess mcq -nac ID=50 8d
+What was the name of the black hole whose first image was captured by the Event Horizon Telescope in 2019?
+w Sagittarius A
+x Messier 87
+y Centaurus A
+z Andromeda's Core
+x Messier 87
+
+ess mcq -nac ID=51 9d
+Which of the following names is associated with playing a key role in detecting X-rays from black holes, supernova remnants, and galaxy clusters?
+w James Webb
+x Hubble
+y Chandra
+z Kepler
+y Chandra
+
+ess mcq ID=52 6d
+Which of the following is NOT a key capability of the James Webb Space Telescope?
+w detecting infrared light from distant galaxies
+x studying the atmospheres of exoplanets
+y capturing X-ray images of black holes
+z observing the formation of stars and planets
+y capturing X-ray images of black holes
+
+ess mcq ID=53 8d
+What type of data did the Chandra X-ray Observatory use to identify the presence of dark matter in the Bullet Cluster?
+w radio wave patterns
+x X-ray emissions from hot gas
+y gravitational wave fluctuations
+z optical light distortions
+x X-ray emissions from hot gas
+
+ess mcq -nac ID=54 5d
+Which civilization is credited with creating the first accurate star catalog?
+w Egyptians
+x Babylonians
+y Chinese
+z Greeks
+x Babylonians
+
+ess mcq ID=55 2d
+What significant invention in the early 17th century allowed Galileo Galilei to observe the moons of Jupiter?
+w astrolabe
+x telescope
+y sextant
+z quadrant
+x telescope
+
+ess mcq -nac ID=56 7d
+Which ancient Greek philosopher first proposed that the Earth orbited the Sun?
+w Aristotle
+x Aristarchus
+y Ptolemy
+z Thales
+x Aristarchus
+
+ess saq ID=57 4d
+What term describes the motion of planets in the sky periodically reversing along their perceived path around the Earth?
+retrograde motion
+
+Ess mcq -nac ID=58 5d
+Which of the following planets can be observed from Earth to transit the Sun?
+Saturn
+Mars
+Jupiter
+Venus
+Z venus
+
+Ess mcq -nac ID=59 3d
+Which of the following describes a heliocentric model?
+the Earth orbits the Sun
+the Sun orbits the Earth
+the Earth orbits the Moon
+the the Moon orbits the Earth
+W the Earth orbits the Sun
+
+Ess saq ID=60 4d
+The mineral quartz consists of a chemical called silicon dioxide. What two elements can be found in quartz?
+silicon and oxygen
+
+Ess mcq ID=61 2d
+Which of the following surfaces reflects the most sunlight?
+water
+snow
+dirt
+trees
+X snow
+
+Ess mcq ID=62 1d
+A hygrometer measures which of the following?
+Atmospheric pressure
+Water level
+Water pressure
+Humidity
+Z humidity
+
+Ess mcq ID=63 2d
+Which of the following describes a line or curve on a map connecting two points with the same atmospheric pressure?
+Isobar
+Metabar
+Gigabar
+Pseudobar
+W isobar
+
+Ess saq ID=64 3d
+Identify all of the following which are asterisms: 1) Ursa Major, 2) Ursa Minor, 3) Big Dipper, 4) Little Dipper
+3, 4
+
+ess mcq ID=65 6d
+What tool do astronomers use to study the redshift of galaxies?
+w Microscope
+x Telescope
+y Spectroscope
+z Radar
+y Spectroscope
+
+Ess mcq ID=66 5d
+Approximately how old is the universe?
+w 1 billion years
+x 4.6 billion years
+y 13.8 billion years
+z 20 billion years
+y 13.8 billion years
+
+ess mcq -nac ID=67 8d
+Who discovered the expansion of the universe?
+w Isaac Newton
+x Albert Einstein
+y Edwin Hubble
+z Stephen Hawking
+y Edwin Hubble
+
+Ess mcq ID=68 4d
+Which of the following coals burns the cleanest?
+W lignite
+X bituminous
+Y sub-bituminous
+Z anthracite
+Z anthracite
+
+Ess mcq -ns ID=69 3d
+In which of the following layers of the atmosphere do commercial airplanes fly?
+Troposphere
+Stratosphere
+Mesosphere
+Thermosphere
+w troposphere
+
+Ess saq ID=70 5d
+What is the largest moon of Pluto, named after a figure in Greek mythology who carried souls to the underworld?
+~Charon
+
+Ess mcq -ns ID=71 8d
+Which of the following best describes the carbon dioxide levels in Earth’s atmosphere in January 2025?
+W increasing short-term and increasing long-term
+X increasing short-term and decreasing long-term
+Y decreasing short-term and increasing long-term
+Z decreasing short-term and decreasing long-term
+W increasing short-term and increasing long-term
+
+
+phys mcq ID=0 1d
+What always moves at the same speed no matter the frame of reference?
+W sound waves
+X neutrinos
+Y light
+Z electrons
+Y light
+
+phys mcq -nac ID=1 9d
+Suppose you have clocks A and B. If you leave clock A at the base of the Eiffel tower but carry clock B to the top and bring it back down to clock A, what will be the state of the two clocks?
+W clock A will be ahead of clock B
+X clock B will be ahead of clock A
+Y the two clocks will show the same time
+Z not enough is known to make a conclusion
+W clock A will be ahead clock B
+
+phys mcq ID=2 2d
+At the surface of the Earth, what is the acceleration due to gravity?
+W 4.9 meters per second squared
+X 9.8 meters per second squared
+Y negative 4.9 meters per second squared
+Z negative 9.8 meters per second squared
+Z negative 9.8 meters per second squared
+
+phys saq ID=3 6d
+If a car accelerates from 0 meters per second to 20 meters per second over a distance of 10 meters, what is its acceleration, assuming it is constant?
+20 (meters per second squared)
+
+phys mcq ID=4 3d
+When launching a ball out of a cannon at a certain velocity, what angle above the horizontal would make the ball travel the furthest before landing?
+W 5
+X 25
+Y 45
+Z 65
+Y 45
+
+phys saq ID=5 1d
+A ball is launched out of a cannon at an angle of 45 degrees above the horizontal. At its peak, what is the ball’s instantaneous vertical velocity?
+0
+
+phys saq ID=6 4d
+A car travels 30 kilometers north and 40 kilometers east. What is the magnitude of its displacement?
+50 (kilometers)
+
+phys saq ID=7 5d
+A ball rolls horizontally off a table at 3 meters per second and hits the ground after 2 seconds. How far does it travel horizontally?
+6 (meters)
+
+phys mcq -ns ID=8 3d
+What is the net force on an object with a mass of 10 kilograms that accelerates at 2 meters per second squared?
+W 20 Newtons
+X 10 Newtons
+Y 5 Newtons
+Z 2 Newtons
+W 20 Newtons
+
+Phys saq ID=9 2d
+A box weighs 100 Newtons and sits on a flat surface. What is the normal force acting on it?
+100 (Newtons)
+
+Phys saq ID=10 4d
+A 10 kilogram box is pulled with a force of 50 Newtons on a frictionless surface. What is its acceleration?
+5 (meters per second squared)
+
+Phys saq ID=11 5d
+Alice and Bob pull a rope in opposite directions: Alice pulls 100 Newtons in the negative direction and Bob pulls in the positive direction with 120 Newtons. What is the net force on the rope?
+(positive) 20 (Newtons)
+
+Phys saq ID=12 5d
+If a car is driving in a circular path with center $p$ with a constant speed, in what direction is its acceleration?
+Towards $p$ (accept: towards the center)
+
+Physics mcq -ns ID=13 7d
+What happens to the centripetal force if the speed of an object moving in a circle is doubled?
+W It is halved
+X It stays the same
+Y It is doubled
+Z It becomes four times as large
+Z It becomes four times as large
+
+Phys mcq -ns ID=14 6d
+A solid disk and a ring both have a radius of 1 meter and weigh 1 kilogram. Which one is harder to spin around its center?
+W Solid disk
+X Ring
+Y Both are equally difficult to spin
+Z It depends on the speed
+X Ring
+
+Phys mcq ID=15 3d
+In rotational motion, what is the equivalent of force?
+W Torque
+X Inertia
+Y Angular momentum
+Z Centripetal force
+W Torque
+
+Phys mcq ID=16 3d
+What type of collision is it if the two colliding objects stick together?
+W Elastic
+X Inelastic
+Y Explosive
+Z Rebound
+X Inelastic
+
+Physics saq ID=17 4d
+What is the momentum of a 2 kilogram object moving at 5 meters per second?
+10 (kilogram meters per second)
+
+Physics mcq ID=18 2d
+What type of energy does a moving object have?
+W Potential energy
+X Kinetic energy
+Y Thermal energy
+Z Chemical energy
+X Kinetic energy
+
+Physics saq ID=19 6d
+A 3 kilogram object moving at 4 meters per second collides with a 2 kilogram object at rest. What is the total momentum of the system after the collision?
+12 (kilogram meters per second)
+
+Physics mcq -ns 4d
+A lever has a fulcrum in the center, with equal forces applied on both sides. What happens?
+W The lever moves clockwise
+X The lever moves counterclockwise
+Y The lever stays balanced
+Z The lever moves up and down
+Y The lever stays balanced
+
+Physics saq ID=20 4d
+A pulley system uses three supporting ropes to lift a load. If the load weighs 120 Newtons, what is the tension in each rope?
+40 (Newtons)
+
+Phys saq ID=21 3d
+A ramp is 5 meters long and raises a box to a height of 1 meter. What is the mechanical advantage of the ramp?
+5
+
+Phys saq ID=22 4d
+A lever has an input force of 10 Newtons and an output force of 50 Newtons. What is the mechanical advantage of the lever?
+5
+
+Phys saq ID=23 5d
+A wheel and axle system has a wheel with a radius of 30 centimeters and an axle with a radius of 10 centimeters. What is its mechanical advantage?
+3
+
+Phys mcq ID=24 2d
+What is the speed of sound in air at room temperature?
+W 340 meters per second
+X 150 meters per second
+Y 1000 meters per second
+Z 200 meters per second
+W 340 meters per second
+
+Physics mcq -ns ID=25 5d
+Which color of light has the shortest wavelength?
+w Red
+x Yellow
+y Blue
+z Violet
+z Violet
+
+physics mcq ID=26 3d -nac
+What is the unit used to measure the intensity of sound?
+w Joules
+x Decibels
+y Hertz
+z Watts
+x Decibels
+
+Physics mcq ID=27 -nac 2d
+What is the unit for measuring electric current?
+w Volts
+x Amperes
+y Ohms
+z Watts
+x Amperes
+
+physics saq ID=28 1d
+What is the name of the closed path that electricity flows through?
+Circuit
+
+physics saq ID=29 2d
+If a circuit has a voltage of 6 volts and a resistance of 2 ohms, what is the current?
+3 (amperes)
+
+physics saq ID=30 1d
+What device is used to measure the current in a circuit?
+Ammeter
+
+physics mcq ID=31 2d -nac
+What is the unit for measuring electrical resistance?
+w Amperes
+x Watts
+y Ohms
+z Volts
+y Ohms
+
+physics saq ID=32 7d
+A 2-kilogram ball moving at 6 meters per second hits a wall and bounces back at 4 meters per second. What is the change in momentum?
+20 kilogram meters per second
+
+physics mcq ID=33 4d
+Which of the following is not a type of simple machine?
+w Lever
+x Pulley
+y Gear
+z Inclined plane
+y Gear
+
+physics saq ID=34 3d
+A circuit has a 12-volt battery and a resistance of 4 ohms. What is the current?
+3 amperes
+
+physics mcq ID=35 8d
+If you double the radius of a spinning disk while keeping its mass the same, what happens to its moment of inertia?
+w It doubles
+x It triples
+y It quadruples
+z It stays the same
+y It quadruples
+
+physics saq ID=36 6d
+A seesaw has a person weighing 50 Newtons sitting 2 meters from the fulcrum. How far from the fulcrum should a 25-Newton person sit to balance it?
+4 meters
+
+physics mcq ID=37 3d
+What type of energy transformation occurs in a hydroelectric dam?
+w Kinetic to electrical
+x Potential to electrical
+y Potential to kinetic to electrical
+z Chemical to electrical
+y Potential to kinetic to electrical
+
+physics saq ID=38 5d
+A ball falls freely for 3 seconds. What is its velocity at the end of this time, assuming no air resistance?
+29.4 meters per second (use 9.8 meters per second squared for acceleration due to gravity)
+
+physics mcq ID=39 2d
+If you combine red, green, and blue light, what color do you get?
+w White
+x Cyan
+y Yellow
+z Magenta
+w White
+
+physics mcq -ns ID=40 4d
+What is the power of a circuit with a voltage of 10 volts and a current of 5 amperes?
+w 2 watts
+x 15 watts
+y 50 watts
+z 500 watts
+y 50 watts
+
+physics mcq ID=41 3d
+Which type of wave is sound?
+w Longitudinal
+x Transverse
+y Electromagnetic
+z Surface
+w Longitudinal
+
+physics saq ID=42 6d
+A spring is stretched by a force of 8 Newtons and has a spring constant of 2 Newtons per meter. How far does the spring stretch?
+4 meters
+
+physics mcq ID=43 5d
+What is the minimum number of supporting ropes in a pulley system to reduce the force needed to lift an object to one-half of its weight?
+w 1
+x 2
+y 3
+z 4
+y 1
+
+phys mcq ID=44 1d
+What force keeps planets in orbit around the Sun?
+w Centrifugal force
+x Gravitational force
+y Centripetal force
+z Electromagnetic force
+x Gravitational force
+
+phys saq ID=45 6d
+If the distance between two planets doubles, how does the gravitational force between them change?
+It becomes one-fourth as strong
+
+phys mcq ID=46 3d
+What shape are the orbits of planets around the Sun?
+w Circular
+x Elliptical
+y Square
+z Parabolic
+x Elliptical
+
+phys mcq -nac -ns ID=47 5d
+Which planet has the strongest gravitational pull in the Solar System?
+w Earth
+x Jupiter
+y Saturn
+z Neptune
+x Jupiter
+
+phys saq -nac ID=48 8d
+What is the name of the law that relates a planet's orbital period to its distance from the Sun?
+Kepler’s Third Law
+
+phys mcq ID=49 4d
+What is the term for the velocity a spacecraft needs to escape a planet’s gravity?
+w Terminal velocity
+x Escape velocity
+y Rotational velocity
+z Orbital velocity
+x Escape velocity
+
+phys saq ID=50 5d
+What is the name of the phenomenon that shifts light from galaxies to the red part of the spectrum as they move away?
+Redshift
+
+phys mcq ID=51 2d
+What is the unit of pressure?
+w ~Newton
+x ~Pascal
+y ~Joule
+z ~Watt
+x ~Pascal
+
+phys mcq -nac ID=52 5d
+Which principle explains why ships float?
+w Bernoulli’s Principle
+x Archimedes’ Principle
+y Pascal’s Principle
+z Boyle’s Law
+x Archimedes’ Principle
+
+phys mcq -nac ID=53 6d
+Which principle explains how airplanes stay in the air?
+w Bernoulli’s Principle
+x Archimedes’ Principle
+y Pascal’s Principle
+z Newton’s First Law
+w Bernoulli’s Principle
+
+phys mcq ID=54 2d
+What property determines whether an object will float or sink?
+w Volume
+x Density
+y Weight
+z Surface area
+x Density
+
+phys mcq -ns ID=55 3d
+What happens to atmospheric pressure as you climb a mountain?
+w It increases
+x It decreases
+y It stays the same
+z It depends on the mountain
+x It decreases
+
+phys mcq ID=56 4d
+What happens when two waves meet and create a larger wave?
+w Destructive interference
+x Constructive interference
+y Reflection
+z Diffraction
+x Constructive interference
+
+phys mcq ID=57 6d
+Which of these is an example of resonance?
+w A singer breaking a glass with their voice
+x Light bending through a prism
+y A shadow forming on the ground
+z A stone skipping on water
+w A singer breaking a glass with their voice
+
+phys mcq ID=58 5d
+What physics concept is used to cancel out noise in active noise cancelling headphones?
+w Reflection
+x Diffraction
+y Constructive interference
+z Destructive interference
+z Destructive interference
+
+phys saq ID=59 5d
+What rule is used to determine the direction of a magnetic field around a current-carrying wire?
+The right-hand rule
+
+phys mcq ID=60 4d
+What is the process of generating a current by changing a magnetic field?
+w Magnetization
+x Induction
+y Diffraction
+z Conduction
+x Induction
+
+phys mcq ID=61 4d
+What device uses electromagnetic induction to generate electricity?
+w Lightbulb
+x Generator
+y Battery
+z Motor
+x Generator
+
+phys mcq -ns ID=62 6d
+What is the direction of a magnetic force on a moving charge?
+w Parallel to its velocity
+x Perpendicular to its velocity
+y Antiparallel to its velocity
+z Depends on the charge
+x Perpendicular to its velocity
+
+phys saq ID=63 5d
+What is the name of the phenomenon where a coil experiences a voltage when a magnet is moved through it?
+Electromagnetic induction (Accept: induction)
+
+physics mcq -ns ID=64 3d
+A car accelerates from rest at a constant rate of 2 meters per second squared. How fast is it moving after 5 seconds?
+w 5 meters per second
+x 10 meters per second
+y 15 meters per second
+z 20 meters per second
+z 20 meters per second
+
+physics mcq ID=65 4d
+What is the displacement of a car that travels at 20 meters per second for 15 seconds?
+w 200 meters
+x 300 meters
+y 400 meters
+z 500 meters
+x 300 meters
+
+Phys saq ID=66 5d
+A ball is dropped from a height of 5 meters. How long does it take to hit the ground, to the closest second?
+1 (second)
+
+phys mcq ID=67 2d
+What term describes the velocity an object reaches when the force of air resistance equals the gravitational force acting on it?
+W Terminal velocity
+X Escape velocity
+Y Constant velocity
+Z Rotational velocity
+W Terminal velocity
+
+phys mcq ID=68 5d -nac
+Which of the following principles explains how hydraulic systems work?
+W Archimedes' Principle
+X Pascal's Principle
+Y Bernoulli’s Principle
+Z Boyle's Law
+X Pascal's Principle
+
+phys saq ID=69 6d
+A force of 30 Newtons is applied to a piston with an area of 0.2 square meters. What is the pressure exerted by the piston?
+150 Pascals
+
+phys mcq ID=70 4d
+What happens to the gravitational force between two objects if the mass of one object is tripled?
+W It stays the same
+X It triples
+Y It doubles
+Z It halves
+X It triples
+
+phys mcq ID=71 7d
+Which phenomenon describes the spreading out of light as it passes through a narrow slit?
+W Reflection
+X Refraction
+Y Diffraction
+Z Interference
+Y Diffraction

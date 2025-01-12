@@ -1,26 +1,30 @@
 import re 
 import argparse
-import os
 from typing import List, Optional
 from textwrap import dedent
 import logging
-import platform
 import random 
-from collections import defaultdict, Counter
+from collections import defaultdict
 
 
-random.seed(611)
-# random.seed(1)
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--round", "-r", help="what round these questions should be part of. does not apply when using --realshit", type=int, required=False)
-parser.add_argument("--round-name", "-rn", help="name of round, will appear on document. does not apply when using --realshit", type=int, required=False)
-parser.add_argument("--input", "-i", help="name of the input file", type=str, default="in.txt")
-parser.add_argument("--output", "-o", help="name of the output file. does not apply when using --realshit", type=str, default="out.txt")
-parser.add_argument("--no-bonus", "-nb", help="whether or not to do pure tossups. does not apply when using --realshit", action="store_true")
-parser.add_argument("--realshit", "-rs", help="whether or not to do EVERYTHING (for a real contest)", action="store_true")
+parser.add_argument("--round", "-r", help="what round these questions should be part of. does not apply when using --compmode", type=int, required=False)
+parser.add_argument("--round-name", "-rn", help="name of round, will appear on document. does not apply when using --compmode", type=int, required=False)
+parser.add_argument("--input", "-i", help="name of the input file.", type=str, default="in.txt")
+parser.add_argument("--output", "-o", help="name of the output file. does not apply when using --compmode", type=str, default="out.txt")
+parser.add_argument("--no-bonus", "-nb", help="whether or not to do pure tossups. does not apply when using --compmode", action="store_true")
+parser.add_argument("--bonus-difficulty-gap", "-bdg", help="minimum difficulty differential between bonuses and tossups", type=float, default=1.0)
+parser.add_argument("--deviation", "-dev", help="random deviation applied to each difficulty", type=float, default=1.0)
+parser.add_argument("--seed", "-s", help="global random seed", type=int, default=None)
+parser.add_argument("--compmode", help="whether or not to automatically apply ALGORITHMS AND EVERYTHING for a real contest (handling difficulty, pairing, shuffling, dividing, outputting multiple rounds)", action="store_true")
 
 args = parser.parse_args()
+
+DEVIATION = args.deviation
+if args.seed:
+    random.seed(args.seed)
+
 if args.round:
     ROUND = args.round
 else:
@@ -75,7 +79,7 @@ class Question:
                  a_text: str,
                  q_choices: Optional[List[str]],
                  a_letter: Optional[str],
-                 difficulty: int
+                 difficulty: Optional[float],
                  ):
 
         self.subject = subject
@@ -118,7 +122,7 @@ class Question:
         for t in tokens1:
             if t.endswith('d'):
                 try:
-                    difficulty = int(t[0])
+                    difficulty = float(t[:-1])
                 except ValueError:
                     continue
                 break
@@ -227,6 +231,8 @@ class Question:
             return self.to_latex_saq()
 
     def to_latex_mcq(self):
+        # TODO: refactor similar code in mcq and saq
+
         if Question.g_is_tossup:
             tb = 'TOSS-UP'
         else:
@@ -328,15 +334,15 @@ for raw_q in raw_questions:
     qlist.append(Question.from_raw(raw_q))
 
 
-# REALSHIT BEGINS
+# compmode BEGINS
 
-if args.realshit:
+if args.compmode:
 
     for q in qlist:
         if q.difficulty is None:
             q.difficulty = random.uniform(0, 6)
         else:
-            q.difficulty += random.uniform(-1, 1)
+            q.difficulty += random.uniform(-DEVIATION, DEVIATION)
 
     def pair_questions(qlist):
         # Step 1: Group questions by subject
@@ -359,7 +365,7 @@ if args.realshit:
                 for j in range(i + 1, len(questions)):
                     if j in used:
                         continue  # Skip already paired questions
-                    if questions[j].difficulty >= questions[i].difficulty + 1:
+                    if questions[j].difficulty >= questions[i].difficulty + args.bonus_difficulty_gap:
                         # Found a valid tossup-bonus pair
                         pairs.append((questions[i], questions[j]))
                         used.add(i)
@@ -394,7 +400,6 @@ if args.realshit:
                 # Remove these pairs from the subject group
                 subject_groups[subject] = pairs[5:]
             if complete_chunk:
-                # print(len(chunk))
                 chunks.append(chunk)
             else:
                 break  # Stop if we can't form a complete chunk of 25 pairs
@@ -479,20 +484,11 @@ if args.realshit:
 
         with open(fname, 'w') as f:
             f.write(prelude.replace('[round]', str(roundnum)) + body + postlude)
-            print(f"Saved output to {fname}")
-
-        # if args.clipboard:
-        #     if platform.system() == "Darwin":
-        #         os.system(f"cat {args.output} | pbcopy")
-        #     elif platform.system() == "Linux":
-        #         os.system(f"cat {args.output} | xclip -selection clipboard")
-            
-        #     print("Copied output to clipboard")
+            print(f"Wrote {len(latexlist)} questions to {fname}")
         
         roundnum += 1
 
-
-    print(len(og_list)) 
+    logging.info(f'Number of extras: {len(og_list)}')
     Question.g_q_number = 1
     latexlist: List[str] = []
 
@@ -505,8 +501,8 @@ if args.realshit:
 
     with open(fname, 'w') as f:
         f.write(prelude.replace('[round]', str(roundnum)) + body + postlude)
-        print(f"Saved output to {fname}")
-
+        print(f"Wrote {len(latexlist)} questions to {fname}")
+else:
+    raise RuntimeError('only --compmode is supported now!')
+    # TODO: no compmode
     
-
-print(len(raw_questions))
